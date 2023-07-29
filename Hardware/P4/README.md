@@ -2,7 +2,7 @@
 
 ## Testbed Setup
 
-Our testbed consists of a Wedge 100BF-32X switch (with Intel Tofino ASIC) with 32$\times$100 Gbps ports, along with a network traffic generator that equips an 18-core Intel Xeon W-2295 3.00 GHz CPU, 256 GB RAM, and an Intel XL710 Dual Port 40G QSFP+ Converged Network Adapter. We utilize the Tcpreplay to replay the real-world CAIDA traces \cite{caida2016}.
+Our testbed consists of a Wedge 100BF-32X switch (with Intel Tofino ASIC) with 32$\times$100 Gbps ports, along with a network traffic generator that equips an 18-core Intel Xeon W-2295 3.00 GHz CPU, 256 GB RAM, and an Intel XL710 Dual Port 40G QSFP+ Converged Network Adapter. We utilize the Tcpreplay to replay the real-world CAIDA traces.
 
 ## Description
 
